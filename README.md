@@ -16,16 +16,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/.NET Core-512BD4?logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/DrizzleORM-00C6B7?logo=drizzle&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 ## 🚀 Current Projects
