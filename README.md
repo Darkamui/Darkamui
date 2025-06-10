@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darkamui/Darkamui/main/devweb.webp" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Darkamui/Darkamui/main/banner.webp" alt="banner" width="100%" />
 </p>
 
 # Hi there, I'm Daniel Jerusalmy 👋
